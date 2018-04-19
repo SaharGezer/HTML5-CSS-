@@ -1,0 +1,177 @@
+*{margin:0;padding:0;}
+
+a
+{
+	text-decoration:none;
+	color:#000000;
+}
+
+a:visited
+{
+	color:#818181;
+}
+
+a:hover
+{
+	color: #96d3f7;
+}
+
+
+header
+{
+	text-align:center;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+.background_color
+{
+	background-color: #f6f9f9;
+}
+
+#Menu
+{
+	font-family:fantasy;
+	font-size:30px;
+	padding-left:40px;
+	word-spacing: 5px;
+}
+
+#clogo
+{
+	font-size:30px;
+	font-family:fantasy;
+	background: url(../images/carrot.png) no-repeat left;
+	padding-left:25px;
+	padding-top:5px;
+	background-size: 25px 25px;
+	width:100px;
+	margin-right:50px;
+}
+
+.background_pic
+{
+	background: url(../images/data-scroll_large.jpg)center no-repeat;
+	height:800px;
+	display: block;
+	font-family:fantasy;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.background_pic h1
+{
+	font-size:60px;
+	font-family:fantasy;
+	border-bottom:#15a4fa solid;
+	margin:15px;
+	display:inline-block;
+}
+
+.background_pic p
+{
+	font-size:30px;
+	font-family:fantasy;
+	padding-bottom:10px;
+}
+
+.background_pic a
+{
+	color:#FFFFFF;
+	font-size:28px;
+	border: #63bef5 solid 2px;
+	padding:5px;
+}
+
+.background_pic section
+{
+	padding-top:280px;
+	text-align:center;
+	color:#FFFFFF;
+}
+
+.background_pic a:hover
+{
+	color:#96d3f7;
+}
+
+.hebrew_details p
+{
+	font-size:25px;	
+	text-align: center;
+	font-family:fantasy;
+	font-weight: bold;
+}
+
+.hebrew_details
+{
+	padding-top:20px;
+	font-family:fantasy;
+	background-color: #f6f9f9;
+	height: 110px;
+}
+
+.hebrew_details h2
+{
+	font-size:50px;
+	text-align: center;
+	font-family:fantasy;
+
+}
+
+
+.programming
+{
+	margin-top:20px;
+	margin-bottom:75px;
+}
+.programming h2
+{
+	padding-top:10px;
+	padding-bottom:45px;
+	text-align:center;
+	font-family:fantasy;
+}
+
+.programming li
+{
+	padding-bottom:10px;
+	padding-left: 405px;
+	list-style-type:none;
+	font-size:15px;
+	font-family:fantasy;
+}
+
+
+.programming img
+{
+	vertical-align:middle;
+}
+
+.social
+{
+	word-spacing: 5px;
+}
+
+
+footer
+{
+	background-color: #f6f9f9;
+	height: 90px;
+	width: 1600px;
+	display: block;
+	padding-top: 45px;
+
+}
+
+footer img 
+{
+	vertical-align:middle;
+}
+
+footer h5 
+{
+	display:inline-block;
+	text-align:center;
+	font-family:fantasy;
+}
